@@ -1,7 +1,7 @@
 /* eslint-disable react/jsx-no-undef */
 import React from 'react';
 import ReactDOM from 'react-dom/client';
-import App from './components/App/App'
+import App from './App'
 import './index.css';
 import 'modern-normalize';
 

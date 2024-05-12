@@ -1,0 +1,33 @@
+
+.button {
+    background: var(--neutral-07-100%);
+    font-family: var(--font-family);
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 178%;
+    letter-spacing: -0.02em;
+    text-align: center;
+    width: 100px;
+}
+
+  .button:hover {
+    background: var(--neutral-07-100%);  }
+  .button:focus {
+    background: var(--neutral-07-100%);  }
+
+    .button_1 {
+    background: var(--neutral-07-100%);
+    font-family: var(--font-family);
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 178%;
+    letter-spacing: -0.02em;
+    text-align: center;
+    margin-left: 8px;
+    
+}
+
+  .button_1:hover {
+    background: var(--neutral-07-100%);  }
+  .button_1:focus {
+    background: var(--neutral-07-100%);  }
